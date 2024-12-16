@@ -1,0 +1,11 @@
+https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853
+https://jalammar.github.io/illustrated-transformer/
+https://lilianweng.github.io/posts/2018-06-24-attention/
+https://www.nand2tetris.org/
+https://nandgame.com/
+https://austinhenley.com/blog/challengingprojects.html
+http://www.emulator101.com/
+https://www.youtube.com/watch?v=zyX5elAVJmc (Custard Cream Donuts（Vanilla & Chocolate）｜HidaMari Cooking)
+https://thenovicechefblog.com/pumpkin-churros/
+https://interpreterbook.com/ (Writing An Interpreter In Go)
+https://www.youtube.com/watch?v=msp2y_Y5MLE
